@@ -24,4 +24,6 @@ Dashboards included:
 - **Preview Screenshot:**  
   <img width="1542" height="791" alt="image" src="https://github.com/user-attachments/assets/dbc204f9-0290-4c5e-8f5d-410514b28b35" />
   <img width="1536" height="790" alt="Overview" src="https://github.com/user-attachments/assets/f69fdc56-47a0-4d5d-b45d-b7e8bc3dfd8b" />
+  <img width="800" height="450" alt="UberGif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/478b2c22-ecd4-4535-8a36-2e2bcde99775" />
+
 ---
