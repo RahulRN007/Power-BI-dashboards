@@ -23,8 +23,8 @@ Dashboards included:
   - Monthly revenue breakdown adjusts based on your selection, giving a clear view of trends per category.
 - **Preview Screenshot:**
 -   <img width="800" height="450" alt="UberGif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/478b2c22-ecd4-4535-8a36-2e2bcde99775" />
--   <img width="1200" height="691" alt="image" src="https://github.com/user-attachments/assets/dbc204f9-0290-4c5e-8f5d-410514b28b35" />
--   <img width="1200" height="690" alt="Overview" src="https://github.com/user-attachments/assets/f69fdc56-47a0-4d5d-b45d-b7e8bc3dfd8b" />
+-   <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/dbc204f9-0290-4c5e-8f5d-410514b28b35" />
+-   <img width="800" height="450" alt="Overview" src="https://github.com/user-attachments/assets/f69fdc56-47a0-4d5d-b45d-b7e8bc3dfd8b" />
 
 
 ---
